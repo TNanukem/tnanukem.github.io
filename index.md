@@ -8,6 +8,8 @@ My interest areas include complex networks, deep learning, machine learning engi
 
 I also am the creator and maintainer of the scikit-net, an open-source library with machine learning algorithms for complex networks.
 
+### Career
+
 ## Portfolio
 
 ---
