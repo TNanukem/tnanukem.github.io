@@ -1,7 +1,7 @@
 title: Tiago Toledo Jr. # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist
+  Data Scientist @ BTG Pactual <br>
   <a href="https://www.linkedin.com/in/tiagotoledojr/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
