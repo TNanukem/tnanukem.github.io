@@ -11,7 +11,7 @@ I also am the creator and maintainer of the scikit-net, an open-source library w
 ### Career
 
 #### Stone Payments
-<img src="images/logo_stone.svg?raw=true"/>
+<img src="images/stone-logo-0.png?raw=true"/>
 
 I've worked at Stone Payments as a summer internet with a routing system for the sales team. This system generated optimized sequence of visits aiming to minimize the traveled distance while maximizing the expected LTV of the visited leads. This system was integrated into a more general commercial intelligence system at the company.
 
@@ -20,6 +20,7 @@ Preliminary results generated an estimate of over R$ 10MM in productivity gains 
 Used frameworks and tools: Python, Salesforce, Complex Networks
 
 #### Big Data
+<img src="images/bigdata_logo.jpg?raw=true"/>
 
 I've worked at Big Data for over three years, from intern until a full data scientist with team management responsibilites. My main projects and accomplishiments at the company were:
 
@@ -50,13 +51,13 @@ At BTG Pactual my main job is related to risk reduction at the retail banking. M
 
 #### Medium Posts
 
-I have several educational posts on Medium, mainly focused on implementing solutions and papers from scratch to assist my readers into understanding the inner workings and complexities of what is being presented.
+I have several educational posts on Medium, mainly focused on implementing solutions and papers from scratch to assist my readers into understanding the inner workings and complexities of what is being presented. You can access my profile [here](https://medium.com/@tiagotoledojr). Here are my most recent posts:
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Mastering Model Interpretability: A Comprehensive Look at Partial Dependence Plots](https://towardsdatascience.com/mastering-model-interpretability-a-comprehensive-look-at-partial-dependence-plots-d5e78e86051a)
+- [A Gentle Introduction to Self-Learning](https://towardsdatascience.com/a-gentle-introduction-to-self-learning-5d6d40349f7c)
+- [Classical Strategies for Scaling up Graph Neural Networks](https://towardsdatascience.com/classical-strategies-for-scaling-up-graph-neural-networks-69dd10cd21a)
+- [How to Create a Graph Neural Network in Python](https://towardsdatascience.com/how-to-create-a-graph-neural-network-in-python-61fd9b83b54e)
+- [Testing if two graphs are isomorphic](https://medium.com/towards-data-science/testing-if-two-graphs-are-isomorphic-cf6c44ab551e)
 
 #### LinkedIn Profile
 
@@ -65,23 +66,20 @@ In my LinkedIn profile I post regular tips about Data Science, Research and gene
 
 ### Open-Source Development
 
-[Project 1 Title](/sample_page)
+[sknet](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[EPCSAC](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Publications
 
-#### Sknet
+Toledo, T., (2021). sknet: A Python framework for Machine Learning in Complex Networks. Journal of Open Source Software, 6(68), 3864, https://doi.org/10.21105/joss.03864
 
-#### EPCSAC
+T. Toledo Junior and S. Bruschi. "EPCSAC - Extensible Platform for Cloud Scheduling Algorithm Comparison", in Anais Estendidos do XXI Simpósio em Sistemas Computacionais de Alto Desempenho, Evento Online, 2020, pp. 46-53, doi: https://doi.org/10.5753/wscad_estendido.2020.14088.
+
 
 ### Certificates
